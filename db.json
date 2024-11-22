@@ -1,0 +1,13 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Welcome to the Blog",
+        "description": "This is the first blog post.",
+        "date": "2024-11-22",
+        "image": "https://via.placeholder.com/150",
+        "category": "General"
+      }
+    ]
+  }
+  
